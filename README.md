@@ -1,5 +1,5 @@
 # AGFS-Tractometry
-This repository releases the source code, pre-created template and testing sample (HC and MMD) for the work related to our ongoing study on a novel approach for finer-scale tractometry using dMRI.
+This repository releases the source code, pre-created template and testing sample (HC and MDD) for the work related to our ongoing study on a novel approach for finer-scale tractometry using dMRI.
 [![image.png](https://i.postimg.cc/52jbKZ7h/image.png)](https://postimg.cc/K1X6Rsyf)
 
 ## Function
